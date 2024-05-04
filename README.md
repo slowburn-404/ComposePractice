@@ -9,15 +9,23 @@ Welcome to my public journal for the Android Basics with Compose Course! This re
 
 ## Unit 2: Building App UI
 
-### Project: (DiceRollerApp)
+### Project: [DiceRollerApp](/DiceRollerApp)
 
 In this initial project, I got to:
 
-* Understand how composition and recomposition works.
-* Add a button to an app UI and respond to user taps.
-* Learn how to use state to display data and reflect the changes automatically when the data gets updated.
-* Interact with the debugger in Android Studio
-* Write unit tests to test isolated functions.
+- Understand how composition and recomposition works.
+- Add a button to an app UI and respond to user taps.
+- Learn how to use state to display data and reflect the changes automatically when the data gets updated.
+- Interact with the debugger in Android Studio
+- Write unit tests to test isolated functions.
+
+### Project: [Tip calculator app](/TipCalculator)
+
+In this project, I got to:
+
+- Learn about state hoisting
+- Work with the TextField composable
+
 
 ## Feedback and suggestions
 
